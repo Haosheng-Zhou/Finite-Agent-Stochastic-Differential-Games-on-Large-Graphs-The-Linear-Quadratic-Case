@@ -8,9 +8,9 @@
 
 ### Files:
 
-Graph_LQ_Semi_Explicit.ipynb: Python notebook for the semi-explicit construction of the Nash equilibrium of the linear-quadratic game under vertex-transitive graphs.
+*Graph_LQ_Semi_Explicit.ipynb*: Python notebook for the semi-explicit construction of the Nash equilibrium of the linear-quadratic game under vertex-transitive graphs.
 
-Running_time_Graph_LQ_Semi_Explicit.ipynb: Python notebook for the running time comparison across different game-solving algorithms.
+*Running_time_Graph_LQ_Semi_Explicit.ipynb*: Python notebook for the running time comparison across different game-solving algorithms.
 
 Github repository maintained by Haosheng Zhou, contact hzhou593@ucsb.edu for any problems.
 
