@@ -2,11 +2,11 @@
 
 ## Authors: Ruimeng Hu, Jihao Long, Haosheng Zhou
 
-## ArXiv version: https://arxiv.org/abs/2406.09523
+## arXiv version: https://arxiv.org/abs/2406.09523
 
 ## Published journal version: https://link.springer.com/article/10.1007/s00245-025-10309-8
 
-Files:
+### Files:
 
 Graph_LQ_Semi_Explicit.ipynb: Python notebook for the semi-explicit construction of the Nash equilibrium of the linear-quadratic game under vertex-transitive graphs.
 
