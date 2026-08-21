@@ -12,5 +12,5 @@
 
 *Running_time_Graph_LQ_Semi_Explicit.ipynb*: Python notebook for the running time comparison across different game-solving algorithms.
 
-Github repository maintained by Haosheng Zhou, contact haoshengzhou1998@gmail.edu for any problems.
+Github repository maintained by Haosheng Zhou, contact haoshengzhou1998@gmail.com for any problems.
 
